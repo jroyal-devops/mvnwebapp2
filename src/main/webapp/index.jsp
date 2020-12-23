@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Jerry-Royal Project</title>
 
 
     <!-- Custom styles for this template -->
@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Project name</a>
+            <a class="navbar-brand" href="#">Jerry-Royal Project</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -62,17 +62,17 @@
     <div class="row">
         <div class="col-md-4">
             <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p>Enter a description here </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p>Enter a description here </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <p>Enter a description here </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Company 2020</p>
     </footer>
 </div> <!-- /container -->
 
